@@ -1,0 +1,10 @@
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\bin\Debug\HelloCSharpWindows.exe.config
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\bin\Debug\HelloCSharpWindows.exe
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\bin\Debug\HelloCSharpWindows.pdb
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.csprojAssemblyReference.cache
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.Calculator.resources
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.Properties.Resources.resources
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.csproj.GenerateResource.cache
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.csproj.CoreCompileInputs.cache
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.exe
+C:\Users\rkdtl\source\repos\HelloCSharpWindows\HelloCSharpWindows\obj\Debug\HelloCSharpWindows.pdb

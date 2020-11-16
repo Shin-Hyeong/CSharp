@@ -34,11 +34,13 @@
             // HelloLabel
             // 
             this.HelloLabel.AutoSize = true;
-            this.HelloLabel.Location = new System.Drawing.Point(62, 48);
+            this.HelloLabel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.HelloLabel.Location = new System.Drawing.Point(167, 89);
             this.HelloLabel.Name = "HelloLabel";
             this.HelloLabel.Size = new System.Drawing.Size(105, 12);
             this.HelloLabel.TabIndex = 0;
             this.HelloLabel.Text = "여기를 클릭하세요";
+            this.HelloLabel.Click += new System.EventHandler(this.HelloLabel_Click);
             // 
             // Calculator
             // 
